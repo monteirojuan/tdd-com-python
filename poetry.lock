@@ -215,7 +215,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
 
 [[package]]
 name = "selenium"
-version = "4.1.3"
+version = "4.3.0"
 description = ""
 category = "dev"
 optional = false
@@ -338,7 +338,7 @@ h11 = ">=0.9.0,<1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "920464d699e6c3e607ac7f6c11f974d39ad7a837474b9f6b307b0e311d5cd134"
+content-hash = "e676ed3e6221ab39a427c3d6331e6196967476639c2ff91db4ee6d4aca3ec6d1"
 
 [metadata.files]
 asgiref = []
